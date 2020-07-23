@@ -23,7 +23,7 @@ A. MÔ TẢ VỀ Android Studio:
 
 ### Bạn Có Thể Xem Bài Tiếp Theo:
 
-- <a href="https://ngocminhtran.com/2018/09/24/thiet-lap-va-nhan-thong-tin-tu-cac-views/">Thiết lập và nhận thông tin từ các Android views!</a>
+- <a href="https://github.com/ChanhMinions/Touchandmulti-touch">Sự kiện và xử lý sự kiện touch (chạm) và multi-touch (đa chạm) trong Android!</a>
 
 ![image](ezr.png)
 
