@@ -18,3 +18,13 @@ A. MÔ TẢ VỀ Android Studio:
 - Chúng Ta thực hiện như cascc bước trên chúng ta sẽ ra được thành quả như hình:
 
 ![image](Untitled12.png)
+
+### Chúc Các Bạn Thành Công !!!
+
+### Bạn Có Thể Xem Bài Tiếp Theo:
+
+- <a href="https://ngocminhtran.com/2018/09/24/thiet-lap-va-nhan-thong-tin-tu-cac-views/">Thiết lập và nhận thông tin từ các Android views!</a>
+
+![image](ezr.png)
+
+                                                                         Trần Phú , Ngày 23 tháng 7 Năm 2020
